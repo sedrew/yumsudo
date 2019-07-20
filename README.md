@@ -1,1 +1,1 @@
-# yumsudo-
+# yumsudo на кавёр
